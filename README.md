@@ -7,6 +7,7 @@ Latest Supported Version: Pre-Release GAMMA
 ***
 When the first version of ILMS is released, this README file will be updated with 
 support and version information. 
+- Check back soon
 ***
 ### Contact 
 cbell@jeppeboys.co.za
